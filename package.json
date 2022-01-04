@@ -1,0 +1,23 @@
+{
+  "name": "demo-rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devansh5/demo-rabbitmq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devansh5/demo-rabbitmq/issues"
+  },
+  "homepage": "https://github.com/devansh5/demo-rabbitmq#readme"
+}
